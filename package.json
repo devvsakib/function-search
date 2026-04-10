@@ -5,6 +5,7 @@
     "id": "b41ac335-aa3c-609c-985c-c5162235542a",
     "description": "A VSCode extension to search for functions in the current workspace.",
     "version": "0.0.1",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.85.0"
     },
